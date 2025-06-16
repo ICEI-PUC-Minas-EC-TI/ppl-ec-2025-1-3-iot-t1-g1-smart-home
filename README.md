@@ -1,26 +1,24 @@
-# TÍTULO DO PROJETO
+# Smart Home
 
-`CAMPUS`
+`Lourdes (Praça da Liberdade)`
 
-`CURSO`
+`Felipe Augusto Lara Soares`
 
-`SEMESTRE`
+`3°SEMESTRE`
 
-`DISCIPLINA`
+`INTERNET DAS COISAS I`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Fernando Augusto
 * Nome completo do aluno 2
 * Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+
 
 ## Orientador
 
-* Nome completo do professor 1 (Nome do professor de IoT1)
-* Nome completo do professor 2 (Nome do professor de Banco de Dados)
+* Julio Cesar Dillinger Conway
 
 ## Resumo
 
