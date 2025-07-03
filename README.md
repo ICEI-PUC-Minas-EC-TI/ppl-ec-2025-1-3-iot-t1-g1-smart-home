@@ -28,9 +28,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 <li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
 
-# Aplicativo para Smartphone
+# Codigo (Banco de dados)
 
-<li><a href="App/README.md"> Aplicativo </a></li>
 
 # Apresentação
 
