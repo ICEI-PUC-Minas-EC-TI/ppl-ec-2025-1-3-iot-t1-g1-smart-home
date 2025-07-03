@@ -57,7 +57,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Extensão
 
-<li><a href="Apresentacao/README.md"> Fotos do Extensão</a></li>
+<li><a href="Apresentacao/README.md"> Fotos da Extensão</a></li>
 
 
 
