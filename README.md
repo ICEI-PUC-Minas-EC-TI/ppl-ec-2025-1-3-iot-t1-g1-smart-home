@@ -22,7 +22,9 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Nosso projeto é uma casa automática que se comunica com um aplicativo, enviando e recebendo informações por meio de vários sensores distribuídos por diferentes ambientes. Esses sensores têm funções variadas, como monitorar a luminosidade, detectar presença de gás, medir temperatura e umidade, além de controlar luzes e outros dispositivos. Dessa forma, o sistema permite que o usuário acompanhe em tempo real o que está acontecendo dentro da casa, mesmo à distância.
+
+A ideia principal é criar uma conexão prática e eficiente entre a casa e quem a controla, facilitando o gerenciamento dos aparelhos e garantindo mais segurança e conforto. Com esse projeto, é possível automatizar tarefas do dia a dia, receber alertas importantes e até mesmo controlar dispositivos remotamente, tudo isso por meio do aplicativo integrado ao sistema.
 
 # Código (do arduino ou esp32)
 
